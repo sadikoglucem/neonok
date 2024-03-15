@@ -1,6 +1,6 @@
 var i = 1;
 var bet = 0.4; // 1 = 1$
-var ses = 'af7c3356-7d53-455c-95f2-577bb9d62ac9';
+var ses = '9047d2b2-0133-46c7-9a97-9013beed9092';
 
 deal();
 function deal() {
