@@ -1,5 +1,5 @@
 var i = 1;
-var bet = 0.4; // 1 = 1$
+var bet = 0.6; // 1 = 1$
 var ses = '9047d2b2-0133-46c7-9a97-9013beed9092';
 
 deal();
