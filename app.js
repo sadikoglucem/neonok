@@ -1,6 +1,6 @@
 var i = 1;
-var bet = 0.6; // 1 = 1$
-var ses = '9047d2b2-0133-46c7-9a97-9013beed9092';
+var bet = 5; // 1 = 1$
+var ses = 'ecb02bf7-c952-46e5-b633-7c1d6a046950';
 
 deal();
 function deal() {
@@ -53,5 +53,5 @@ fetch("https://rgs-cu2.hacksawgaming.com/api/play/bet", {
 deal();
     };
 });
-}, 300);
+}, 5);
 }
