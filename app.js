@@ -24,7 +24,7 @@ var evotoken1 = 'iJibGFja2phY2tjbGFzc2ljX2YwX2cwX2gwX2kwX2owIiwicGlkIjoic2N5YWl4
 var evotoken2 = 'S1n2Jan_ICIBWmCLn9jtf8YI3FwFE7MugDNnWGozFQ_hotKfznHCv0v7x_C3pUGSw';
 var ses = 'scyaixvs7ycrvm3kscyaixxxdzgraifm038339b2';
 var curr = 'RUB';
-var amo = 500;
+var amo = 2000;
 var splitt = 0;
 var provider = "babylonrbt";
 deal();
