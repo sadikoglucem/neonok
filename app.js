@@ -20,11 +20,11 @@ var options = {
 };
 
 var evotoken = 'eyJraWQiOiIxNjcwOTQwNTA0MTM4IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJjdXIiOiJSVUIiLCJndHAiOiJibGFja2phY2tjbGFzc2ljIiwicGduIjoiYmxhY2tqYWNrY2xhc3NpY19mMF9nMF9oMF9pMF9qMF9ub3RfbW9iaWxlX3N3IiwianVyIjoiQ1ciLCJoaWVyYXJjaHkiOiJbYmFieWxvbnJidDAwMDAwMV0iLCJtaWQiO';
-var evotoken1 = 'iJibGFja2phY2tjbGFzc2ljX2YwX2cwX2gwX2kwX2owIiwicGlkIjoic2M1d2kzMmNjcW1iNXlhYSIsImV4cCI6MTcyMTM5MDA0MCwidGlkIjoiYmxhY2tqYWNrMGgwaTBqMCIsImNpZCI6ImJhYnlsb25yYnQwMDAwMDEiLCJzaWQiOiJzYzV3aTMyY2NxbWI1eWFhc2M1d2kzMzczaXdlenZiaGI4YjM1YTBjIn0.50jFkEXwLA4eyXdDm43JJ';
-var evotoken2 = 'Eeg4vWEgNNFLxL4e0FLnrvel-NGYM_KaCHKJJ94dKmO5aUA8OCSijk6tDaYGeA86g';
-var ses = 'sc5wi32ccqmb5yaasc5wi3373iwezvbhb8b35a0c';
+var evotoken1 = 'iJibGFja2phY2tjbGFzc2ljX2YwX2cwX2gwX2kwX2owIiwicGlkIjoic2M2bDN2enh3bWVjZzZjaCIsImV4cCI6MTcyMTQxMjY3NywidGlkIjoiYmxhY2tqYWNrMGgwaTBqMCIsImNpZCI6ImJhYnlsb25yYnQwMDAwMDEiLCJzaWQiOiJzYzZsM3Z6eHdtZWNnNmNoc2M2bDN2M2Q1Y2tjNWc1YWUzMjIzZjdkIn0.BN6uQDAn0sOxK7OtK1Vnv';
+var evotoken2 = 'pRZmGv8NpXRzDHBnuo0PZGQmP19ouzvxyxyJN7A301dpbIZK1q1hqizW1zD18GPOw';
+var ses = 'sc6l3vzxwmecg6chsc6l3v3d5ckc5g5ae3223f7d';
 var curr = 'RUB';
-var amo = 2000;
+var amo = 2500;
 var splitt = 0;
 var provider = "babylonrbt";
 deal();
